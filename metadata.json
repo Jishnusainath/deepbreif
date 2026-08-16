@@ -1,0 +1,6 @@
+{
+  "name": "DeepBrief",
+  "description": "Autonomous AI research agent that investigates topics, searches the web, analyzes sources, and compiles comprehensive structured reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
